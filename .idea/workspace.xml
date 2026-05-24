@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c100e4df-5948-4059-a0cd-2fc4bf8204a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="24" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="7.486784261149269E-23" />
+      <entry key="MS500" value="3.757429559398035E-5" />
+      <entry key="S2" value="0.09170176307044103" />
+      <entry key="S5" value="0.7408439807344698" />
+      <entry key="S10" value="1.8166185243029058" />
+      <entry key="S30" value="3.52493842267481" />
+      <entry key="S60" value="4.192906966482961" />
+      <entry key="M2" value="4.6961927703159105" />
+      <entry key="M5" value="7.438723228499982" />
+      <entry key="M10" value="12.31873022925117" />
+      <entry key="M15" value="15.513192958742607" />
+      <entry key="M30" value="20.379280008308665" />
+      <entry key="H1" value="23.95943561414462" />
+      <entry key="H2" value="26.24093476545583" />
+      <entry key="H4" value="27.551262446253002" />
+      <entry key="D1" value="28.747970528506272" />
+      <entry key="W1" value="28.963723108541405" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000092662613387" />
+      <entry key="MS500" value="1.1178084651585432" />
+      <entry key="S2" value="1.9896099874816446" />
+      <entry key="S5" value="2.8356853641577766" />
+      <entry key="S10" value="3.5667919298627675" />
+      <entry key="S30" value="4.749288947520009" />
+      <entry key="S60" value="5.283967111873692" />
+      <entry key="M2" value="5.6273129654893514" />
+      <entry key="M5" value="6.097553946322918" />
+      <entry key="M10" value="6.64412832545678" />
+      <entry key="M15" value="6.994969866782262" />
+      <entry key="M30" value="7.593285735353451" />
+      <entry key="H1" value="8.119043042604497" />
+      <entry key="H2" value="8.497906706766852" />
+      <entry key="H4" value="8.73058812351125" />
+      <entry key="D1" value="8.952245377289426" />
+      <entry key="W1" value="8.993103716847376" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.409881080423951E-5" />
+      <entry key="MS500" value="0.17721800998910262" />
+      <entry key="S2" value="1.297564580151732" />
+      <entry key="S5" value="2.91500506376507" />
+      <entry key="S10" value="4.864526520939025" />
+      <entry key="S30" value="8.008357491597074" />
+      <entry key="S60" value="9.325106569437501" />
+      <entry key="M2" value="10.241171400349518" />
+      <entry key="M5" value="13.495351717534595" />
+      <entry key="M10" value="18.9362834899396" />
+      <entry key="M15" value="22.487912045429624" />
+      <entry key="M30" value="27.96060077051419" />
+      <entry key="H1" value="32.071857036295626" />
+      <entry key="H2" value="34.735335107775455" />
+      <entry key="H4" value="36.28004254066585" />
+      <entry key="D1" value="37.69990634764657" />
+      <entry key="W1" value="37.95678239286041" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3DtQy9TehaF2FICRLGNqIF0gZWw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Film4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Film6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Film7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Film9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Klasa1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Projekt01 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Projekt01 [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Film9">
+    <configuration name="Film4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kurs.film4.Film4" />
+      <module name="Projekt01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kurs.film4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Film6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kurs.film6.Film6" />
+      <module name="Projekt01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kurs.film6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Film7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kurs.film7.Film7" />
+      <module name="Projekt01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kurs.film7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Film9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kurs.film9.Film9" />
+      <module name="Projekt01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kurs.film9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypyZmienne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zad1.TypyZmienne" />
+      <module name="Projekt01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Film9" />
+        <item itemvalue="Application.Film7" />
+        <item itemvalue="Application.Film4" />
+        <item itemvalue="Application.Film6" />
+        <item itemvalue="Application.TypyZmienne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c100e4df-5948-4059-a0cd-2fc4bf8204a9" name="Changes" comment="" />
+      <created>1779099139506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779099139506</updated>
+      <workItem from="1779113222956" duration="288000" />
+      <workItem from="1779113525873" duration="2889000" />
+      <workItem from="1779170820497" duration="358000" />
+      <workItem from="1779269564503" duration="561000" />
+      <workItem from="1779273935356" duration="40000" />
+      <workItem from="1779274255655" duration="833000" />
+      <workItem from="1779544529050" duration="3648000" />
+      <workItem from="1779551305319" duration="4399000" />
+      <workItem from="1779563267021" duration="1292000" />
+      <workItem from="1779636020917" duration="645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
